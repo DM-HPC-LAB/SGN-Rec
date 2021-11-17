@@ -1,2 +1,2 @@
 # SimGNN
-A Tensorflow implementation of Session-based Recommendation with Simplified Graph Neural Networks
+A Tensorflow implementation of SimGNN: Simplified Graph Neural Networks for Session-based Recommendation
